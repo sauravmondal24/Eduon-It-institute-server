@@ -1,34 +1,34 @@
 [
 	{
 		"id": "01",
-		"name": "Breaking News"
+		"name": "Education"
 	},
 	{
 		"id": "02",
-		"name": "Regular News"
+		"name": "Accounting"
 	},
 	{
 		"id": "03",
-		"name": "International News"
+		"name": "Language"
 	},
 	{
 		"id": "04",
-		"name": "Sports"
+		"name": "Computer"
 	},
 	{
 		"id": "05",
-		"name": "Entertainment"
+		"name": "Research"
 	},
 	{
 		"id": "06",
-		"name": "Culture"
+		"name": "Assessment"
 	},
 	{
 		"id": "07",
-		"name": "Arts"
+		"name": "Graphic"
 	},
 	{
 		"id": "08",
-		"name": "All News"
+		"name": "All Courses"
 	}
 ]
