@@ -8,7 +8,10 @@
 		"students": "44",
 		"category": "Education",
 		"rate": "39",
-		"img": "https://templates.hibootstrap.com/eduon/default/assets/img/course-img/course-img-1.jpg"
+		"img": "https://templates.hibootstrap.com/eduon/default/assets/img/course-img/course-img-1.jpg",
+		"group": {
+			"item": "Accounting"
+		}
 	},
 	{
 		"id": "02",
